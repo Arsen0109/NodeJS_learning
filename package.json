@@ -1,0 +1,19 @@
+{
+  "name": "first_node_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arsen0109/NodeJS_learning.git"
+  },
+  "author": "Arsen0109",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arsen0109/NodeJS_learning/issues"
+  },
+  "homepage": "https://github.com/Arsen0109/NodeJS_learning#readme"
+}
